@@ -51,6 +51,7 @@ public class HelloWorld {
         int[] str = new int[]{1, 2, 3, 4};
         for (int i = 0; i < str.length; i++) {
             System.out.println("i = " + i);
+            System.out.println("i = " + i + 1);
         }
     }
 }
